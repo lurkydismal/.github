@@ -1,10 +1,10 @@
-<!-- when updating this file also update https://github.com/flutter/flutter/blob/master/CODE_OF_CONDUCT.md -->
+<!-- when updating this file also update https://github.com/lurkydismal/.github/blob/main/CODE_OF_CONDUCT.md -->
 
 # Code of conduct
 
-The Flutter project expects Flutter's contributors to act professionally
-and respectfully. Flutter contributors are expected to maintain the safety
-and dignity of Flutter's social environments (such as GitHub and Discord).
+The CCCaster project expects CCCaster's contributors to act professionally
+and respectfully. CCCaster contributors are expected to maintain the safety
+and dignity of CCCaster's social environments (such as GitHub).
 
 Specifically:
 
@@ -12,13 +12,11 @@ Specifically:
 * Be kind. Be courteous. Be welcoming.
 * Listen. Consider and acknowledge people's points before responding.
 
-Should you experience anything that makes you feel unwelcome in Flutter's
-community, please contact [conduct@flutter.dev](mailto:conduct@flutter.dev)
-or, if you prefer, directly contact someone on the project, for instance
-[Hixie](mailto:ian@hixie.ch) or [Tim](mailto:timsneath@google.com).
+Should you experience anything that makes you feel unwelcome in CCCaster's
+community, please contact [lurkydismal@duck.com](mailto:lurkydismal@duck.com).
 
-The Flutter project will not tolerate harassment in Flutter's
-community, even outside of Flutter's public communication channels.
+The CCCaster project will not tolerate harassment in CCCaster's
+community, even outside of CCCaster's public communication channels.
 
 ## Conflict resolution
 
@@ -39,7 +37,7 @@ solutions are merged into one mediocre solution. A conflict is
 addressed when the participants agree that the final solution is
 _better_ than all the conflicting proposals. Sometimes the solution is
 more work than either of the proposals. [Embrace the yak
-shave](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo#lazy-programming).
+shave](https://github.com/lurkydismal/CCCaster/wiki/Style-guide-for-CCCaster-repo#lazy-programming).
 
 ## Questions
 
