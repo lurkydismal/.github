@@ -1,4 +1,4 @@
-<!-- when updating this file also update https://github.com/lurkydismal/.github/blob/main/CODE_OF_CONDUCT.md -->
+<!-- when updating this file also update https://github.com/lurkydismal/CCCaster/blob/main/CODE_OF_CONDUCT.md -->
 
 # Code of conduct
 
