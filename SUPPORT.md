@@ -1,2 +1,1 @@
-To get help with Flutter, we encourage you to visit our [documentation site](https://flutter.dev/docs) and our [API reference](https://api.flutter.dev).
-If these resources are insufficient, you may find help among the many [Flutter communities](https://flutter.dev/community) around the world.
+To get help with CCCaster, we encourage you to visit our [wiki page](https://github.com/lurkydismal/CCCaster/wiki) and our [API reference](https://github.com/lurkydismal/CCCaster/wiki/API).
