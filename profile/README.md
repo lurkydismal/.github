@@ -1,7 +1,6 @@
 # Welcome to the CCCaster organization
 
-CCCaster is an open source UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
-CCCaster is primarily funded by Google with contributors from all around the world.
+CCCaster is an open source gameplay enchances for Melty Blood Actress Again Current Code.
 
 ## Get started with CCCaster!
 
