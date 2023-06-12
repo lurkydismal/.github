@@ -2,7 +2,7 @@
 
 *List which issues are fixed by this PR. You must list at least one issue.*
 
-*If you had to change anything in the [cccaster/tests] repo, include a link to the migration guide as per the [breaking change policy].*
+*If you had to change anything in the [CCCaster/tests] repo, include a link to the migration guide as per the [breaking change policy].*
 
 ## Pre-launch Checklist
 
