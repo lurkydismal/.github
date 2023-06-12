@@ -19,5 +19,5 @@
 [Tree Hygiene]: https://github.com/lurkydismal/CCCaster/wiki/Tree-hygiene
 [test-exempt]: https://github.com/lurkydismal/CCCaster/wiki/Tree-hygiene#tests
 [CCCaster Style Guide]: https://github.com/lurkydismal/CCCaster/wiki/Style-guide-for-CCCaster-repo
-[cccaster/tests]: https://github.com/lurkydismal/CCCaster/tests
+[CCCaster/tests]: https://github.com/lurkydismal/CCCaster/tests
 [breaking change policy]: https://github.com/lurkydismal/CCCaster/wiki/Tree-hygiene#handling-breaking-changes
