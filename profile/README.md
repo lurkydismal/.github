@@ -18,4 +18,4 @@ The CCCaster project has a number of repositories, some important ones include:
 
 <!-- alphabetical -->
 * [CCCaster](https://github.com/lurkydismal/CCCaster): the CCCaster app. Start here.
-* [tests](https://github.com/lurkydismal/CCCaster/tests): a repository for you to submit your application's tests to ensure that breaking changes don't affect your application.
+* [tests](https://github.com/lurkydismal/CCCaster/tree/main/tests): to submit application's tests to ensure that breaking changes don't affect the application.
