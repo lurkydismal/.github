@@ -57,7 +57,7 @@ If you want to help us triage, you are very welcome to do so!
    which covers the meanings of some important GitHub labels and
    milestones.
 
-4. Once you've been doing this for a while, someone will invite you to the ccccaster-hackers
+4. Once you've been doing this for a while, someone will invite you to the cccaster-hackers
    team on GitHub and you'll be able to add labels too. See the
    [contributor access](https://github.com/lurkydismal/CCCaster/wiki/Contributor-access) wiki
    page for details.
