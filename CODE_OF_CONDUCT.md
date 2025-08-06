@@ -1,22 +1,19 @@
-<!-- when updating this file also update https://github.com/lurkydismal/CCCaster/blob/main/CODE_OF_CONDUCT.md -->
-
 # Code of conduct
 
-The CCCaster project expects CCCaster's contributors to act professionally
-and respectfully. CCCaster contributors are expected to maintain the safety
-and dignity of CCCaster's social environments (such as GitHub).
+This project expects contributors to act professionally and respectfully.
+Contributors are expected to maintain the safety and dignity of social environments (such as GitHub).
 
 Specifically:
 
-* Respect people, their identities, their culture, and their work.
+* Respect people and their work.
 * Be kind. Be courteous. Be welcoming.
 * Listen. Consider and acknowledge people's points before responding.
 
-Should you experience anything that makes you feel unwelcome in CCCaster's
-community, please contact [lurkydismal@duck.com](mailto:lurkydismal@duck.com).
+Should you experience anything that makes you feel unwelcome,
+please contact [lurkydismal@duck.com](mailto:lurkydismal@duck.com).
 
-The CCCaster project will not tolerate harassment in CCCaster's
-community, even outside of CCCaster's public communication channels.
+This project will not tolerate harassment in this project's
+community, even outside of this repository's public communication channels.
 
 ## Conflict resolution
 
@@ -36,12 +33,30 @@ concerns. Be wary of agreement by compromise, where two good competing
 solutions are merged into one mediocre solution. A conflict is
 addressed when the participants agree that the final solution is
 _better_ than all the conflicting proposals. Sometimes the solution is
-more work than either of the proposals. [Embrace the yak
-shave](https://github.com/lurkydismal/CCCaster/wiki/Style-guide-for-CCCaster-repo#lazy-programming).
+more work than either of the proposals.
+
+Write what you need and no more, but when you write it, do it right.
+
+Avoid implementing features you don’t need. You can’t design a feature
+without knowing what the constraints are. Implementing features
+"for completeness" results in unused code that is expensive to maintain,
+learn about, document, test, etc.
+
+When you do implement a feature, implement it the right way. Avoid workarounds.
+Workarounds merely kick the problem further down the road, but at
+a higher cost: someone will have to relearn the problem, figure out
+the workaround and how to dismantle it (and all the places that now use it),
+and implement the feature. It’s much better to take longer to fix
+a problem properly, than to be the one who fixes everything quickly
+but in a way that will require cleaning up later.
+
+You may hear Me say "embrace the yak shave!".
+This is an encouragement to take on the larger effort necessary
+to perform a proper fix for a problem rather than just applying a band-aid.
 
 ## Questions
 
-It's always ok to ask questions. Our systems are large, and nobody will be
+It's always OK to ask questions. Systems are large, and nobody will be
 an expert in all the systems. Once you find the answer, document it in
 the first place you looked. That way, the next person will be brought
 up to speed even quicker.

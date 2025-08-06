@@ -1,21 +1,22 @@
-# Welcome to the CCCaster organization
+# Welcome to LurkyDismal’s GitHub
 
-CCCaster is an open source gameplay enchances for Melty Blood Actress Again Current Code.
+I contribute primarily to C-based tools and projects, with a focus on performance, and clarity across codebases.
 
-## Get started with CCCaster!
+## Get Started
 
-To learn more about CCCaster, see <https://github.com/lurkydismal/CCCaster/wiki>.
+Explore my [repositories](https://github.com/lurkydismal?tab=repositories) for guides, examples and documentation to get up and running.
 
-To get up to speed quickly, start with our [getting started guide](https://github.com/lurkydismal/CCCaster/wiki/get-started)!
+## Featured Repositories
 
-## Get involved!
+* **[current project](https://github.com/LurkyDismal/c_extra)** – the project I currently maintain.  
+* **[test](https://github.com/lurkydismal/test)** – a shared testing framework to ensure stability across projects.
 
-You can join the fun by following our [contributing guide](https://github.com/lurkydismal/CCCaster/blob/master/CONTRIBUTING.md). Everyone is welcome!
+## About Me
 
-## Repositories
+I am **LurkyDismal**, a hobbyist focused on C-based tooling and enhancements. I focus on Linux using GNU extensions and compiler-specific infrastructure.
 
-The CCCaster project has a number of repositories, some important ones include:
+## Connect & Support
 
-<!-- alphabetical -->
-* [CCCaster](https://github.com/lurkydismal/CCCaster): the CCCaster app. Start here.
-* [tests](https://github.com/lurkydismal/CCCaster/tree/main/tests): to submit application's tests to ensure that breaking changes don't affect the application.
+If you find any of my repositories useful, consider starring them.
+
+Feel free to open issues, start discussions, or submit pull requests if you would like to contribute or ask questions.
