@@ -10,7 +10,7 @@ Example: "Changed typo in documentation. No migration required."
 - [ ] I read the [Contributor Guide] and followed the process outlined there for submitting PRs.
 - [ ] I formatted the files to follow code style of repository.
 - [ ] I listed at least one issue that this PR fixes in the description above.
-- [ ] I updated/added relevant documentation (doc comments).
+- [ ] I updated/added relevant documentation.
 - [ ] I added new tests to check the change I am making, or this PR is test-exempt.
 - [ ] All existing and new tests are passing.
 
