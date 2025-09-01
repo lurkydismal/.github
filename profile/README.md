@@ -12,7 +12,7 @@ Explore my [repositories](https://github.com/lurkydismal?tab=repositories) for g
 
 ## About Me
 
-I am **LurkyDismal**, a hobbyist focused on C-based tooling and enhancements. I focus on Linux using GNU extensions and compiler-specific infrastructure.
+I am **LurkyDismal**, a hobbyist focused on **C**/ **C++** -based tooling and enhancements. I focus on Linux using GNU extensions and compiler-specific infrastructure.
 
 ## Connect & Support
 
