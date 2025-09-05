@@ -8,7 +8,7 @@ Explore my [repositories](https://github.com/lurkydismal?tab=repositories) for g
 
 ## Featured Repositories
 
-* **[current project](https://github.com/LurkyDismal/c_extra)** – the project I currently maintain.  
+* **[current project](https://github.com/LurkyDismal/jubilant-parakeet)** – the project I currently maintain.  
 * **[test](https://github.com/lurkydismal/test)** – a shared testing framework to ensure stability across projects.
 
 ## About Me
