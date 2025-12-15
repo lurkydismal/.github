@@ -8,7 +8,7 @@ Explore my [repositories](https://github.com/lurkydismal?tab=repositories) for g
 
 ## Featured Repositories
 
-* **[current project](https://github.com/LurkyDismal/jubilant-parakeet)** – the project I currently maintain.  
+* **[current project](https://github.com/LurkyDismal/ubiquitous-invention)** – the project I currently maintain.  
 
 ## About Me
 
