@@ -8,11 +8,11 @@ Explore my [repositories](https://github.com/lurkydismal?tab=repositories) for g
 
 ## Featured Repositories
 
-* **[current project](https://github.com/LurkyDismal/ubiquitous-invention)** – the project I currently maintain.  
+* **[current project](https://github.com/lurkydismal/CCCaster)** – the project I currently maintain.  
 
 ## About Me
 
-I am **LurkyDismal**, a hobbyist focused on **C**/ **C++ 23** -based tooling and enhancements. I focus on Linux using GNU extensions and compiler-specific infrastructure.
+I am **LurkyDismal**, a hobbyist focused on **C 23**/ **C++ 26** -based tooling and enhancements. I focus on Linux using GNU extensions and compiler-specific infrastructure.
 
 ## Connect & Support
 
