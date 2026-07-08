@@ -8,7 +8,7 @@ Explore my [repositories](https://github.com/lurkydismal?tab=repositories) for g
 
 ## Featured Repositories
 
-* **[current project](https://github.com/lurkydismal/CCCaster)** – the project I currently maintain.  
+* **[current project](https://github.com/lurkydismal/xray-monolith)** – the project I currently maintain.  
 
 ## About Me
 
